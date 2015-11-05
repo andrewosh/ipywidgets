@@ -1,8 +1,11 @@
 # Interactive HTML Widgets
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/andrewosh/ipywidgets)
+
 [![Build Status](https://travis-ci.org/ipython/ipywidgets.svg?branch=master)](https://travis-ci.org/ipython/ipywidgets) [![Join the chat at https://gitter.im/ipython/ipywidgets](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ipython/ipywidgets?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [Interactive HTML widgets](https://github.com/ipython/ipywidgets/blob/master/examples/notebooks/Index.ipynb) for Jupyter notebooks and the IPython kernel.
+
 
 ## Install
 
